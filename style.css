@@ -1,0 +1,50 @@
+body{
+     background-color:rgb(237, 203, 208);
+    text-align: center;
+}
+h1{
+    color:#000;
+    font: style 500px;
+}
+h2{
+    color:#000;;
+    font-weight: 500;
+    /* border: solid; */
+    background-color: lightpink;
+}
+h3{
+    text-align: center;
+    background-color: lightpink;
+    
+}
+p{
+    color: black;
+   
+}
+header{
+    text-align: center;
+    font-size: medium;
+    background-color:lightpink;
+    /* border: solid; */
+    
+    
+}
+div{
+    text-align: center;
+}
+table, th, tr,td{
+    border-color: #000; 
+    border-radius: 1px;
+    border: 1px;
+    border: solid;
+    margin: auto;
+    justify-content: center;
+}
+table{
+    width: 30%;
+    height: 10%;
+}
+
+button{
+    text-align: center;
+}
